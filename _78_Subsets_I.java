@@ -46,7 +46,7 @@ public class Subsets {
      |
      3
      题意：
-         输入一串不重复数字（int[] nums），求等于数组nums集合（int[] nums）的所有子集。
+         输入一串不重复数字（int[] nums），求数组nums（int[] nums）的所有子集。
        
      
      思路：
